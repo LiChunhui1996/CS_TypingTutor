@@ -1,0 +1,13 @@
+C:\Users\Lynn\source\repos\Project\TypingTutor\TypingTutor\bin\Release\TypingTutor.exe.config
+C:\Users\Lynn\source\repos\Project\TypingTutor\TypingTutor\bin\Release\TypingTutor.exe
+C:\Users\Lynn\source\repos\Project\TypingTutor\TypingTutor\bin\Release\TypingTutor.pdb
+C:\Users\Lynn\source\repos\Project\TypingTutor\TypingTutor\obj\Release\TypingTutor.Form1.resources
+C:\Users\Lynn\source\repos\Project\TypingTutor\TypingTutor\obj\Release\TypingTutor.Form2.resources
+C:\Users\Lynn\source\repos\Project\TypingTutor\TypingTutor\obj\Release\TypingTutor.Form3.resources
+C:\Users\Lynn\source\repos\Project\TypingTutor\TypingTutor\obj\Release\TypingTutor.Form4.resources
+C:\Users\Lynn\source\repos\Project\TypingTutor\TypingTutor\obj\Release\TypingTutor.Form5.resources
+C:\Users\Lynn\source\repos\Project\TypingTutor\TypingTutor\obj\Release\TypingTutor.Properties.Resources.resources
+C:\Users\Lynn\source\repos\Project\TypingTutor\TypingTutor\obj\Release\TypingTutor.csproj.GenerateResource.Cache
+C:\Users\Lynn\source\repos\Project\TypingTutor\TypingTutor\obj\Release\TypingTutor.csproj.CoreCompileInputs.cache
+C:\Users\Lynn\source\repos\Project\TypingTutor\TypingTutor\obj\Release\TypingTutor.exe
+C:\Users\Lynn\source\repos\Project\TypingTutor\TypingTutor\obj\Release\TypingTutor.pdb
